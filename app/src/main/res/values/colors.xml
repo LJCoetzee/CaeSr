@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#ff64c2f4</color>
+    <color name="link_blue">#4062ae</color>
+    <color name="deadline_red">#9a1919</color>
+    <color name="yellowish">#ffe400</color>
+    <color name="white">#ffffff</color>
+    <color name="grey_700">#555555</color>
+    <color name="grey_light">#7b7b7b</color>
+    <color name="grey_dark">#2d2e2d</color>
+    <color name="black">#000000</color>
+</resources>

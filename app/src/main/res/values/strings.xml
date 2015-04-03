@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CaeSr</string>
+    <string name="be_patient">Please be patient while Caesr initializes.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_share" translatable="false">Share</string>
+    <string name="title_activity_announcement">Announcements</string>
+    <string name="title_activity_announcement_detail">Announcement Detail</string>
+    <string name="title_activity_assignment">Assignments</string>
+    <string name="title_activity_discussion">Discussions</string>
+    <string name="title_activity_modulecontent">Module Content</string>
+    <!-- Subscription option strings -->
+    <!-- Title -->
+    <string name="subscribed_modules_title">Subscribed Modules</string>
+    <string name="subscribed_modules_description">Select the modules for which you would like to receive updates on.</string>
+    <string name="subscription_list_key">SubscriptionList</string>
+    <!-- values for the label and value arrays -->
+    <string name="pref_sub_acm101">ACM101</string>
+    <string name="pref_sub_cos301">COS301</string>
+    <string name="pref_sub_cos101">COS101</string>
+    <string name="pref_sub_cos131">COS131</string>
+    <string name="pref_sub_cos132">COS132</string>
+    <string name="pref_sub_cos133">COS133</string>
+    <string name="pref_sub_cos135">COS135</string>
+    <string name="pref_sub_cos151">COS151</string>
+    <string name="pref_sub_cos153">COS153</string>
+    <string name="pref_sub_cos212">COS212</string>
+    <string name="pref_sub_cos216">COS216</string>
+    <string name="pref_sub_cos314">COS314</string>
+    <string name="pref_sub_cos332">COS332</string>
+    <string name="pref_sub_cos341">COS341</string>
+    <string name="pref_sub_cos344">COS344</string>
+    <string name="pref_sub_sit110">SIT110</string>
+    <string name="pref_sub_sit133">SIT133</string>
+    <string name="pref_sub_sit153">SIT153</string>
+    <string name="pref_sub_COS700">COS700</string>
+    <string name="pref_sub_HON015">HON015</string>
+    <string name="pref_sub_COS710">COS710</string>
+    <string name="pref_sub_COS720">COS720</string>
+    <string name="pref_sub_COS730">COS730</string>
+    <string name="pref_sub_COS740">COS740</string>
+    <string name="pref_sub_COS782">COS782</string>
+    <string name="pref_sub_COS785">COS785</string>
+    <string name="pref_sub_COS787">COS787</string>
+    <string name="pref_sub_COS788">COS788</string>
+    <string name="pref_sub_MIT840">MIT840</string>
+    <string name="pref_sub_MIT842">MIT842</string>
+    <string name="pref_sub_MIT860">MIT860</string>
+
+    <!--No stuff banners-->
+    <string name="no_announcements">There are no announcements.</string>
+    <string name="no_assignments">There are no active assignments.</string>
+    <string name="no_discussions">There are no active discussions.</string>
+    <string name="no_moculecontent">There are no active discussions.</string>
+
+    <string name="title_activity_aadc">AADCActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_aadctabbed">AADCtabbedActivity</string>
+    <string name="test_module">COS212</string>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sub_values">
+        <item>@string/pref_sub_acm101</item>
+        <item>@string/pref_sub_cos301</item>
+        <item>@string/pref_sub_cos101</item>
+        <item>@string/pref_sub_cos131</item>
+        <item>@string/pref_sub_cos132</item>
+        <item>@string/pref_sub_cos133</item>
+        <item>@string/pref_sub_cos135</item>
+        <item>@string/pref_sub_cos151</item>
+        <item>@string/pref_sub_cos153</item>
+        <item>@string/pref_sub_cos212</item>
+        <item>@string/pref_sub_cos216</item>
+        <item>@string/pref_sub_cos314</item>
+        <item>@string/pref_sub_cos332</item>
+        <item>@string/pref_sub_cos341</item>
+        <item>@string/pref_sub_cos344</item>
+        <item>@string/pref_sub_sit110</item>
+        <item>@string/pref_sub_sit133</item>
+        <item>@string/pref_sub_sit153</item>
+
+        <item>@string/pref_sub_COS700</item>
+        <item>@string/pref_sub_HON015</item>
+        <item>@string/pref_sub_COS710</item>
+        <item>@string/pref_sub_COS720</item>
+        <item>@string/pref_sub_COS730</item>
+        <item>@string/pref_sub_COS740</item>
+        <item>@string/pref_sub_COS782</item>
+        <item>@string/pref_sub_COS785</item>
+        <item>@string/pref_sub_COS787</item>
+        <item>@string/pref_sub_COS788</item>
+
+        <item>@string/pref_sub_MIT840</item>
+        <item>@string/pref_sub_MIT842</item>
+        <item>@string/pref_sub_MIT860</item>
+    </string-array>
+
+    <string-array name="pref_sub_defaults">
+        <item>@string/pref_sub_acm101</item>
+        <item>@string/pref_sub_cos301</item>
+        <item>@string/pref_sub_cos131</item>
+        <item>@string/pref_sub_cos151</item>
+        <item>@string/pref_sub_cos153</item>
+        <item>@string/pref_sub_cos212</item>
+        <item>@string/pref_sub_cos332</item>
+        <item>@string/pref_sub_cos344</item>
+        <item>@string/pref_sub_sit153</item>
+    </string-array>
+</resources>
