@@ -45,7 +45,7 @@
         </activity>
         <activity
             android:name=".ModulecontentActivity"
-            android:label="@string/subscribed_modules_title"
+            android:label="@string/title_activity_modulecontent"
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
